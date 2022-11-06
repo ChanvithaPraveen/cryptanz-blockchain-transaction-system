@@ -9,15 +9,4 @@ typed npm install -D tailwindcss postcss autoprefixer to initialize tailwindcss
 then typed npx tailwindcss init -p
 make the path in in index.css as App.jsx in content
 change the directory to smart_contract in terminal and run npm init -y
-
 npm install react-icons ethers to install the icon package
-
-use ropstan testnet faucet website to get free ethereum
-metamask pw -> CryptanzProject 
-metamask phrase -> cabbage spin behave host gallery lake client umbrella beyond ritual potato rain
-
-client ID in google API
-274259609307-8it30l3glbea2ohpn84qbae2f26ng797.apps.googleusercontent.com
-
-client secret
-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

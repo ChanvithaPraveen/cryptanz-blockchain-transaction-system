@@ -13,7 +13,7 @@ const Login = ()=>{
   // User Login info
   const database = [
     {
-      username: "chanvithapraween@gmail.com",
+      username: "user1@gmail.com",
       password: "pass1"
     },
     {
@@ -99,7 +99,7 @@ const Login = ()=>{
     
     const navigate = useNavigate();
     const [ profile, setProfile ] = useState([]);
-    const clientId = '274259609307-8it30l3glbea2ohpn84qbae2f26ng797.apps.googleusercontent.com';
+    const clientId = '';
     useEffect(() => {
         const initClient = () => {
             gapi.client.init({

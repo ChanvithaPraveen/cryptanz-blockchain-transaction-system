@@ -13,7 +13,7 @@ const NavBarItem = ({ title, classprops }) => (
 );
 
 const Navbar = () => {
-  const clientId = '274259609307-8it30l3glbea2ohpn84qbae2f26ng797.apps.googleusercontent.com';
+  const clientId = '';
   const navigate = useNavigate();
   const [ profile, setProfile ] = useState([]);
 
